@@ -6,6 +6,7 @@ A repository of interesting projects I have completed or contributed to while co
 
 - smart_home
 - agriculture_drone
+- systems_programming
 - pulsar_candidate_selection
 - cell_segmentation
 - static_program_analysis
