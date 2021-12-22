@@ -47,7 +47,7 @@ to utilize this feature ('Launch Drone' button) will cause the program to time o
 
 **Project Description**:  
 This consists of five smaller projects written for my Systems Programming course
-in which I learned how to utilize various aspeects of the Linux operating system
+in which I learned how to utilize various aspects of the Linux operating system
 programmatically including searching a filesystem,
 creating and synchronizing threads,
 signal handling,
@@ -95,7 +95,7 @@ WARNING: This project is quite large due to the number of image files used and g
 
 **Project Description:**  
 This project contains some of the code and documentation that I created during an
-independant study and research course in which I learned about using the logic
+independent study and research course in which I learned about using the logic
 programming language Datalog for use with static program analysis. This research
 was conducted under the mentorship of Thomas Gilray, Ph. D. from the HARP lab
 at the University of Alabama at Birmingham. This repo contains a parser
