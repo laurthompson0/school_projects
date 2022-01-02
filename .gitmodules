@@ -7,3 +7,6 @@
 [submodule "smart_home"]
 	path = smart_home
 	url = git@github.com:laurthompson0-school-projects/smart_home.git
+[submodule "agriculture_drone"]
+	path = agriculture_drone
+	url = git@github.com:laurthompson0-school-projects/agriculture_drone.git
