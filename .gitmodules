@@ -4,3 +4,6 @@
 [submodule "static_program_analysis"]
 	path = static_program_analysis
 	url = git@github.com:laurthompson0-school-projects/static_program_analysis.git
+[submodule "smart_home"]
+	path = smart_home
+	url = git@github.com:laurthompson0-school-projects/smart_home.git
