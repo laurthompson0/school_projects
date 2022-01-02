@@ -10,3 +10,6 @@
 [submodule "agriculture_drone"]
 	path = agriculture_drone
 	url = git@github.com:laurthompson0-school-projects/agriculture_drone.git
+[submodule "pulsar_candidate_selection"]
+	path = pulsar_candidate_selection
+	url = git@github.com:laurthompson0-school-projects/pulsar_candidate_selection.git
