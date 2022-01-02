@@ -1,3 +1,6 @@
 [submodule "systems_programming"]
 	path = systems_programming
 	url = git@github.com:laurthompson0-school-projects/systems_programming.git
+[submodule "static_program_analysis"]
+	path = static_program_analysis
+	url = git@github.com:laurthompson0-school-projects/static_program_analysis.git
